@@ -26,6 +26,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    gap: 20px;
     width: 80%;
     /* background-color: #eeeef0; */
     margin: 10px auto;
@@ -49,6 +51,7 @@ body {
     font-size: 50px;
     color: #002ead;
     font-weight: 700;
+    width: 35%;
 }
 
 span {
