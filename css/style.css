@@ -1,14 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 0;
     margin: 0;
     background-color: azure;
     height: 100vh;
 }
 
+.header {
+    padding: 7px;
+    margin: 20px auto;
+    text-align: center;
+    width: 50%;
+    border-radius: 14px;
+    background-color: #d0d0d5;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    background-color: #eeeef0;
+    margin: 10px auto;
+    padding: 30px;
+}
+
+/* GIT LOGO */
+
 .git-logo {
+    margin: 20px;
     height: 150px;
     width: 150px;
     background-color: #f06033;
@@ -67,3 +90,5 @@ body {
     left: 70px;
     top: -8px;
 }
+
+/* END OF GIT LOGO */
