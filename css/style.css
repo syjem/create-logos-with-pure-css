@@ -22,6 +22,11 @@ body {
     /* background-color: #d0d0d5; */
 }
 
+.css {
+    color: blue;
+    text-decoration: underline;
+}
+
 .main {
     display: flex;
     justify-content: center;
