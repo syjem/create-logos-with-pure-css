@@ -7,3 +7,24 @@ body {
     background-color: azure;
     height: 100vh;
 }
+
+.git-logo {
+    height: 150px;
+    width: 150px;
+    background-color: #f06033;
+    transform: rotate(45deg);
+    border-radius: 14px;
+    /* position: relative; */
+}
+
+.line1 {
+    background-color: white;
+    position: absolute;
+    width: 110px;
+    height: 10px;
+    top: 40px;
+}
+
+.line1::before {
+    
+}
