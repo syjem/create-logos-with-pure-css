@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 66%;
+    width: 70%;
     border-radius: 30px;
     background-color: rgb(219, 163, 163);
     gap: 50px;
@@ -51,7 +51,7 @@ body {
     font-size: 50px;
     color: #002ead;
     font-weight: 700;
-    width: 35%;
+    width: 40%;
 }
 
 span {
