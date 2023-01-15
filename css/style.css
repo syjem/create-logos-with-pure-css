@@ -30,6 +30,15 @@ body {
 
 /* GIT LOGO */
 
+.logo-container {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    border: 1px solid red;
+}
+
 .git-logo {
     margin: 20px;
     height: 150px;
