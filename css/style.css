@@ -13,7 +13,7 @@ body {
     padding: 7px;
     margin: 20px auto;
     text-align: center;
-    width: 50%;
+    width: 80%;
     border-radius: 14px;
     background-color: #d0d0d5;
 }
@@ -22,7 +22,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 80%;
     background-color: #eeeef0;
     margin: 10px auto;
     padding: 30px;
@@ -35,8 +35,31 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 80%;
-    border: 1px solid red;
+    width: 66%;
+    border-radius: 30px;
+    background-color: rgb(219, 163, 163);
+    gap: 50px;
+}
+
+.logo-name {
+    font-size: 50px;
+    color: #002ead;
+    font-weight: 700;
+}
+
+span {
+    color: #f06033;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 50%;
+    height: 250px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 25px;
 }
 
 .git-logo {
