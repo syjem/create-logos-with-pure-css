@@ -138,3 +138,19 @@ span {
 }
 
 /* END OF GIT LOGO */
+
+
+/* GOOGLE LOGO */
+
+.google-logo {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: azure;
+    padding: 0;
+    border-top: 50px solid #ea4335;
+    border-right: 50px solid #4285f4;
+    border-left: 50px solid #fbbc05;
+    border-bottom: 50px solid #34a853;
+}
