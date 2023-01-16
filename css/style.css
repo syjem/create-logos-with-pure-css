@@ -39,7 +39,7 @@ body {
     padding: 30px;
 }
 
-/* GIT LOGO */
+/* Reusable */
 
 .logo-container {
     padding: 15px;
@@ -73,6 +73,8 @@ span {
     background-color: white;
     border-radius: 25px;
 }
+
+/* Git Logo */
 
 .git-logo {
     margin: 20px;
