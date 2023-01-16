@@ -137,7 +137,6 @@ span {
     top: -8px;
 }
 
-/* END OF GIT LOGO */
 
 
 /* GOOGLE LOGO */
@@ -149,8 +148,25 @@ span {
     border-radius: 50%;
     background-color: azure;
     padding: 0;
-    border-top: 50px solid #ea4335;
-    border-right: 50px solid #4285f4;
-    border-left: 50px solid #fbbc05;
-    border-bottom: 50px solid #34a853;
+    border-top: 30px solid #ea4335;
+    border-right: 30px solid #4285f4;
+    border-left: 30px solid #fbbc05;
+    border-bottom: 30px solid #34a853;
+}
+
+.google-logo::before {
+    content: '';
+    position: absolute;
+    width: 75px;
+	height: 30px;
+    top: 50%;
+    background-color: #4285f4;
+    right: -28px;
+    transform: translateY(-50%);
+}
+
+.google-logo::after {
+    content: '';
+    position: absolute;
+    
 }
