@@ -69,8 +69,9 @@ span {
     overflow: hidden;
     width: 50%;
     height: 250px;
+    height: 50vh;
     margin: 5px;
-    background-color: white;
+    background-color: azure;
     border-radius: 25px;
 }
 
@@ -165,8 +166,15 @@ span {
     transform: translateY(-50%);
 }
 
-.google-logo::after {
-    content: '';
-    position: absolute;
-    
+
+.triangle:after{
+    content:'';
+    position:absolute;
+    top: -75px;
+    left:-45px;
+    width: 0;
+    height: 0;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-bottom: 92px solid azure;
 }
