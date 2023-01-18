@@ -13,6 +13,17 @@ body {
     font-family: 'Rowdies', cursive;
 }
 
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 1.5;
+    color: azure;
+    background-color: rgba(41, 30, 38, 0.7);
+}
+
 .header {
     padding: 7px;
     margin: 20px auto;
