@@ -76,6 +76,10 @@ span {
 
 /* Git Logo */
 
+.git {
+    color: rgb(230, 225, 225);
+}
+
 .git-logo {
     margin: 20px;
     height: 150px;
