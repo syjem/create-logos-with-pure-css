@@ -89,7 +89,25 @@ span {
 }
 
 
+.youtube-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 230px;
+    height: 150px;
+    background-color: red;
+    border-radius: 30px;
+}
 
+.play-button {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-bottom: 82px solid white;
+    transform: rotate(90deg);
+}
 
 
 /* Git Logo */
