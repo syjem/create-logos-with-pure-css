@@ -170,11 +170,11 @@ span {
 .triangle:after{
     content:'';
     position:absolute;
-    top: -75px;
-    left:-45px;
+    top: -62px;
+    left: 55px;
     width: 0;
     height: 0;
-    border-left: 45px solid transparent;
+    border-left: 85px solid transparent;
     border-right: 45px solid transparent;
     border-bottom: 92px solid azure;
 }
