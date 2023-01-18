@@ -49,12 +49,12 @@ body {
     width: 70%;
     border-radius: 30px;
     background-color: rgb(219, 163, 163);
-    gap: 50px;
+    gap: 10px;
 }
 
 .logo-name {
+    text-align: center;
     font-size: 50px;
-    color: rgb(59, 59, 59);
     font-weight: 700;
     width: 40%;
 }
@@ -114,6 +114,9 @@ span {
 
 .git {
     color: rgb(247, 244, 244);
+    background-color: black;
+    padding: 3px 10px;
+    border-radius: 14px;
 }
 
 .git-logo {
