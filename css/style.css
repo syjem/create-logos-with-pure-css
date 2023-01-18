@@ -54,13 +54,14 @@ body {
 
 .logo-name {
     font-size: 50px;
-    color: #002ead;
+    color: rgb(59, 59, 59);
     font-weight: 700;
     width: 40%;
 }
 
 span {
     color: #f06033;
+    text-decoration: underline;
 }
 .logo {
     display: flex;
