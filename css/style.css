@@ -61,7 +61,6 @@ body {
 
 span {
     color: #f06033;
-    text-decoration: underline;
 }
 .logo {
     display: flex;
@@ -141,6 +140,22 @@ span {
 
 
 /* GOOGLE LOGO */
+
+.blue {
+    color: #4285f4;
+}
+
+.red {
+    color: #ea4335;
+}
+
+.yellow {
+    color: #fbbc05;
+}
+
+.green {
+    color: #34a853;
+}
 
 .google-logo {
     position: relative;
