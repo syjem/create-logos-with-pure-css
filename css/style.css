@@ -74,6 +74,24 @@ span {
     border-radius: 25px;
 }
 
+
+/* Youtube */
+
+.black {
+    color: rgb(26, 25, 25);
+}
+
+.tube {
+    color: white; 
+    background-color: red;
+    padding: 1px 8px;
+    border-radius: 20px;
+}
+
+
+
+
+
 /* Git Logo */
 
 .git {
@@ -204,13 +222,22 @@ span {
     color: red;
 }
 
-.black {
-    color: rgb(26, 25, 25);
-}
 
-.tube {
-    color: white; 
-    background-color: red;
-    padding: 1px 8px;
-    border-radius: 20px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
