@@ -68,8 +68,7 @@ span {
     align-items: center;
     overflow: hidden;
     width: 50%;
-    height: 250px;
-    height: 50vh;
+    height: 40vh;
     margin: 5px;
     background-color: azure;
     border-radius: 25px;
@@ -165,7 +164,6 @@ span {
     right: -28px;
     transform: translateY(-50%);
 }
-
 
 .triangle:after{
     content:'';
