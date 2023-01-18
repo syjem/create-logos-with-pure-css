@@ -196,3 +196,21 @@ span {
     border-right: 45px solid transparent;
     border-bottom: 92px solid rgb(59, 59, 59);
 }
+
+
+/* Netflix */
+
+.netflix {
+    color: red;
+}
+
+.black {
+    color: rgb(26, 25, 25);
+}
+
+.tube {
+    color: white; 
+    background-color: red;
+    padding: 1px 8px;
+    border-radius: 20px;
+}
