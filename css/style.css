@@ -70,7 +70,7 @@ span {
     width: 50%;
     height: 40vh;
     margin: 5px;
-    background-color: azure;
+    background-color: rgb(59, 59, 59);
     border-radius: 25px;
 }
 
@@ -146,7 +146,7 @@ span {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: azure;
+    background-color: rgb(59, 59, 59);
     padding: 0;
     border-top: 30px solid #ea4335;
     border-right: 30px solid #4285f4;
@@ -168,11 +168,11 @@ span {
 .triangle:after{
     content:'';
     position:absolute;
-    top: -62px;
+    top: -61px;
     left: 55px;
     width: 0;
     height: 0;
     border-left: 85px solid transparent;
     border-right: 45px solid transparent;
-    border-bottom: 92px solid azure;
+    border-bottom: 92px solid rgb(59, 59, 59);
 }
