@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: azure;
+    background-color: #212121;
     height: 100vh;
     font-family: 'Roboto', sans-serif;
     font-family: 'Rowdies', cursive;
@@ -21,7 +21,7 @@ footer {
     flex-direction: column;
     line-height: 0.5;
     color: azure;
-    background-color: rgba(41, 30, 38, 0.7);
+    background-color: rgba(71, 69, 71, 0.9);
 }
 
 .header {
@@ -30,6 +30,7 @@ footer {
     text-align: center;
     width: 80%;
     border-radius: 14px;
+    color: antiquewhite;
     /* background-color: #d0d0d5; */
 }
 
@@ -59,9 +60,26 @@ footer {
     align-items: center;
     width: 70%;
     border-radius: 30px;
-    background-color: rgb(219, 163, 163);
+    background-image: linear-gradient(163deg, #baf0d3 0%, #00b7ff 100%);
     gap: 10px;
+    transition: all .3s;
 }
+
+.logo-container:hover {
+    box-shadow: 0px 0px 20px 1px rgb(235, 109, 7);
+   }
+
+section .card {
+    width: 190px;
+    height: 254px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+}
+
+section .card:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+   }
 
 .logo-name {
     text-align: center;
