@@ -223,11 +223,11 @@ span {
     content:'';
     position:absolute;
     top: -61px;
-    left: 50px;
+    left: 42px;
     width: 0;
     height: 0;
-    border-left: 85px solid transparent;
-    border-right: 45px solid transparent;
+    border-left: 95px solid transparent;
+    border-right: 50px solid transparent;
     border-bottom: 92px solid rgb(59, 59, 59);
 }
 
