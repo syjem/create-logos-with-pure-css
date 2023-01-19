@@ -34,6 +34,9 @@ footer {
     background-image: linear-gradient(163deg, #44e48f 0%, #053549 100%);
 }
 
+.header:hover {
+    background-image: linear-gradient(163deg, #70d49f 0%, #3b819c 100%);
+}
 .css {
     color: #44e48f;
     text-decoration: underline;
@@ -60,13 +63,14 @@ footer {
     align-items: center;
     width: 70%;
     border-radius: 30px;
-    background-image: linear-gradient(163deg, #99fcc7 0%, #00b7ff 100%);
+    background-image: linear-gradient(163deg, #7db698 0%, #00b7ff 100%);
     gap: 10px;
     transition: all .3s;
 }
 
 .logo-container:hover {
     box-shadow: 0px 0px 20px 1px rgb(235, 109, 7);
+    background-image: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
    }
 
 section .card {
