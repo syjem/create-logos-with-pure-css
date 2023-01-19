@@ -28,7 +28,7 @@ footer {
     padding: 7px;
     margin: 20px auto;
     text-align: center;
-    width: 53%;
+    width: 53.5%;
     border-radius: 14px;
     color: antiquewhite;
     background-image: linear-gradient(163deg, #44e48f 0%, #053549 100%);
@@ -63,7 +63,7 @@ footer {
     align-items: center;
     width: 70%;
     border-radius: 30px;
-    background-image: linear-gradient(163deg, #7db698 0%, #00b7ff 100%);
+    background-image: linear-gradient(163deg, #7db698 0%, #0991c7 100%);
     gap: 10px;
     transition: all .3s;
 }
