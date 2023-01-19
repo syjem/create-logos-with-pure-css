@@ -46,30 +46,7 @@ footer {
 
 .logos {
     text-shadow: 5px 5px 5px #0f0a0a;
-    letter-spacing: 5px;
-}
-
-.O {
-    position: absolute;
-    width: 20px;
-    height: 25px;
-    border-radius: 50%;
-    border: 5px solid #f06033;
-    top: 56px; 
-    left: 588px;
-    box-shadow: 5px 5px 5px #0f0a0a;
-}
-
-.O2 {
-    position: absolute;
-    width: 20px;
-    height: 25px;
-    border-radius: 50%;
-    border: 5px solid #f06033;
-    top: 56px; 
-    left: 630px;
-    padding: 0 2px;
-    box-shadow: 5px 5px 5px #0f0a0a;
+    letter-spacing: 1px;
 }
 
 .main {
