@@ -69,8 +69,9 @@ footer {
 }
 
 .logo-container:hover {
-    box-shadow: 0px 0px 20px 1px rgb(235, 109, 7);
+    box-shadow: 5px 5px 10px 1px rgb(250, 245, 241);
     background-image: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
+    transform: scale(0.99);
    }
 
 section .card {
