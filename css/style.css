@@ -302,7 +302,17 @@ span {
     top: -8px;
 }
 
+.react-logo {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #5ed3f3;
+    border-radius: 50%;
+}
 
+.circle {
+    
+}
 
 
 
