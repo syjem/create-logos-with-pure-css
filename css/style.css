@@ -304,18 +304,33 @@ span {
 
 .react-logo {
     position: absolute;
-    width: 50px;
-    height: 50px;
+    width: 23px;
+    height: 23px;
     background-color: #5ed3f3;
     border-radius: 50%;
 }
 
 .circle {
-    
+    position: absolute;
+    width: 50px;
+    height: 140px;
+    border-radius: 50%;
+    border: 5px solid #5ed3f3;
+    top: -58px;
+    left: -13px;
 }
 
+.rotate1 {
+    transform: rotate(30deg);
+}
 
+.rotate2 {
+    transform: rotate(-30deg);
+}
 
+.rotate3 {
+    transform: rotate(90deg);
+}
 
 
 
