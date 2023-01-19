@@ -125,6 +125,7 @@ span {
 
 .netflix {
     color: red;
+    text-shadow: -2px -2px #171718;
 }
 
 .netflix-logo {
@@ -161,22 +162,22 @@ span {
 
 .blue {
     color: #4285f4;
-    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
+    text-shadow: -2px -2px #171718;
 }
 
 .red {
     color: #ea4335;
-    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
+    text-shadow: -2px -2px #171718;
 }
 
 .yellow {
     color: #fbbc05;
-    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
+    text-shadow: -2px -2px #171718;
 }
 
 .green {
     color: #34a853;
-    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
+    text-shadow: -2px -2px #171718;
 }
 
 .google-logo {
@@ -219,8 +220,7 @@ span {
 
 .git {
     color: rgb(247, 244, 244);
-    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
-    border: 5px solid black;
+    text-shadow: -3px -3px #171718;
     box-shadow: 0px 0px 15px rgb(240, 239, 239);
     padding: 3px 10px;
     border-radius: 14px;
