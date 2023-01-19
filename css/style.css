@@ -37,7 +37,8 @@ footer {
 }
 
 .header:hover {
-    background: linear-gradient(163deg, #dbc190 0%, #436977 100%);
+    background: linear-gradient(163deg, #c28e2f 0%, #246279 100%);
+    transform: scale(0.99);
 }
 .css {
     color: #44e48f;
