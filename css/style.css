@@ -104,7 +104,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 230px;
+    width: 220px;
     height: 150px;
     background-color: red;
     border-radius: 30px;
@@ -114,9 +114,9 @@ span {
     position: absolute;
     width: 0;
     height: 0;
-    border-left: 45px solid transparent;
-    border-right: 45px solid transparent;
-    border-bottom: 82px solid white;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 80px solid white;
     transform: rotate(90deg);
 }
 
