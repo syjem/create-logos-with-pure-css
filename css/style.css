@@ -302,12 +302,14 @@ span {
     top: -8px;
 }
 
+
 .react-logo {
     position: absolute;
     width: 23px;
     height: 23px;
     background-color: #5ed3f3;
     border-radius: 50%;
+    animation: react 15s linear 0.5s infinite;
 }
 
 .circle {
@@ -332,6 +334,14 @@ span {
     transform: rotate(90deg);
 }
 
+@keyframes react{
+    0%{
+      transform: rotate(0deg)
+    }
+    100%{
+      transform: rotate(360deg)
+    }
+  }
 
 
 
