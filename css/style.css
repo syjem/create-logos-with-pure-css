@@ -32,12 +32,12 @@ footer {
     width: 48%;
     border-radius: 14px;
     color: antiquewhite;
-    background: linear-gradient(163deg, #44e48f 0%, #053549 100%);
+    background: linear-gradient(163deg, #c9a159 0%, #375663 100%);
     transition: all .3s;
 }
 
 .header:hover {
-    background: linear-gradient(163deg, #70d49f 0%, #3b819c 100%);
+    background: linear-gradient(163deg, #dbc190 0%, #436977 100%);
 }
 .css {
     color: #44e48f;
