@@ -161,18 +161,22 @@ span {
 
 .blue {
     color: #4285f4;
+    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
 }
 
 .red {
     color: #ea4335;
+    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
 }
 
 .yellow {
     color: #fbbc05;
+    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
 }
 
 .green {
     color: #34a853;
+    text-shadow: 2px 2px #ff0000, -2px -2px #a7a7ec, 0px 0px 5px #ff00ff;
 }
 
 .google-logo {
