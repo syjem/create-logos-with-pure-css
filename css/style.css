@@ -44,6 +44,10 @@ footer {
     text-decoration: underline;
 }
 
+.logos {
+    text-shadow: 5px 5px 5px #0f0a0a;
+}
+
 .main {
     display: flex;
     justify-content: center;
