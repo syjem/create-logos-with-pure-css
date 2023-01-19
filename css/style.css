@@ -32,12 +32,12 @@ footer {
     width: 48%;
     border-radius: 14px;
     color: antiquewhite;
-    background-image: linear-gradient(163deg, #44e48f 0%, #053549 100%);
+    background: linear-gradient(163deg, #44e48f 0%, #053549 100%);
     transition: all .3s;
 }
 
 .header:hover {
-    background-image: linear-gradient(163deg, #70d49f 0%, #3b819c 100%);
+    background: linear-gradient(163deg, #70d49f 0%, #3b819c 100%);
 }
 .css {
     color: #44e48f;
@@ -65,14 +65,14 @@ footer {
     align-items: center;
     width: 50%;
     border-radius: 30px;
-    background-image: linear-gradient(163deg, #7db698 0%, #0991c7 100%);
+    background: linear-gradient(163deg, #7db698 0%, #0991c7 100%);
     gap: 10px;
     transition: all .3s;
 }
 
 .logo-container:hover {
     box-shadow: 5px 5px 10px 1px rgb(250, 245, 241);
-    background-image: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
+    background: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
     transform: scale(0.99);
    }
 
