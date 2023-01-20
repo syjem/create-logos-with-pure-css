@@ -383,6 +383,48 @@ span {
 
 /* Figma Logo */
 
+.figma-logo {
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.figma {
+    width: 50px;
+    height: 50px;
+    background: orangered;
+}
 
+.left {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
 
+.right {
+    border-top-right-radius:50px;
+    border-bottom-right-radius:50px;
+}
+
+.fg-circle {
+    border-radius:50px;
+}
+
+.last {
+    border-bottom-right-radius:50px;
+}
+
+.orange-part {
+    background: #FB7266;
+}
+
+.purple-part {
+    background: #A061FA;
+}
+
+.blue-part {
+    background: #2EBDFA;
+}
+
+.green-part {
+    background: #00CE84;
+}
