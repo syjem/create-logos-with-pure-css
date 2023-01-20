@@ -350,7 +350,35 @@ span {
   }
 
 
+  /* Microsoft Logo */
 
+
+.microsoft-logo {
+    display: grid;
+    grid-template-columns: 80px 80px;
+    grid-row: auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+.square {
+    width: 80px;
+    height: 80px;
+}
+
+.mic-red { 
+    background-color:#F35325; 
+}
+
+.mic-green { 
+    background-color:#81BC06; 
+}
+.mic-blue { 
+    background-color:#05A6F0; 
+}
+.mic-yellow { 
+    background-color:#FFBA08; 
+}
 
 
 
