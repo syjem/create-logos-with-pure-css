@@ -83,7 +83,7 @@ i {
 }
 
 .logo-container:hover {
-    box-shadow: 5px 5px 10px 1px rgb(250, 245, 241);
+    box-shadow: 5px 5px 6px 1px rgb(156, 155, 154);
     background: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
     transform: scale(0.99);
    }
