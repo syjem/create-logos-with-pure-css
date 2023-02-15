@@ -84,8 +84,8 @@ i {
 }
 
 .logo-container:hover {
-    box-shadow: 5px 5px 6px 1px #FF597B;
-    background: linear-gradient(120deg, #F55050 0%, #F48484 100%);
+    box-shadow: 5px 5px 6px 1px #006E7F;
+    background: linear-gradient(120deg, #fc0e5d 0%, #e0634a 100%);
     transform: scale(0.99);
    }
 
