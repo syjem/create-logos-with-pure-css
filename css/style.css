@@ -38,6 +38,7 @@ i {
     width: 48%;
     border-radius: 14px;
     color: #FD841F;
+    text-shadow: 2px 2px 2px #0f0a0a;
     background: linear-gradient(163deg, #16213E 0%, #EF9F9F 100%);
     transition: all .3s;
 }
