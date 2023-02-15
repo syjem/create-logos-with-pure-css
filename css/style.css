@@ -37,8 +37,8 @@ i {
     text-align: center;
     width: 48%;
     border-radius: 14px;
-    color: antiquewhite;
-    background: linear-gradient(163deg, #c9a159 0%, #375663 100%);
+    color: #FD841F;
+    background: linear-gradient(163deg, #16213E 0%, #EF9F9F 100%);
     transition: all .3s;
 }
 
