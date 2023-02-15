@@ -77,14 +77,14 @@ i {
     align-items: center;
     width: 50%;
     border-radius: 30px;
-    background: linear-gradient(163deg, #7db698 0%, #0991c7 100%);
+    background: linear-gradient(163deg, #D61355 0%, #F94A29 100%);
     gap: 10px;
     transition: all .3s;
 }
 
 .logo-container:hover {
-    box-shadow: 5px 5px 6px 1px rgb(156, 155, 154);
-    background: linear-gradient(120deg, #00b7ff 0%, #2b5039 100%);
+    box-shadow: 5px 5px 6px 1px #FF597B;
+    background: linear-gradient(120deg, #F55050 0%, #F48484 100%);
     transform: scale(0.99);
    }
 
