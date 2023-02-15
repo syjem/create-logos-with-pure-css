@@ -435,3 +435,67 @@ span {
 .green-part {
     background: #00CE84;
 }
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    .header {
+        font-size: smaller;
+    }
+
+    .logos {
+        font-size: 30px;
+    }
+}
+
+
+@media screen and (max-width: 680px) {
+    .header {
+        width: 80%;
+    }
+
+    .logo-container {
+        width: 100%;
+    }
+
+    .logo {
+        max-width: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 680px) {
+    .header {
+        width: 80%;
+    }
+
+    .logo-container {
+        width: 80%;
+    }
+
+    .logo {
+        max-width: 50%;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .header {
+        width: 65%;
+    }
+
+     .logo-container {
+        width: 65%;
+    }
+
+    .logo {
+        max-width: 50%;
+    }
+}
